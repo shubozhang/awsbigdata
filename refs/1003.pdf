@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="ie ie9" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="en">
+  <!--<![endif]-->
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="Content-Language" content="en-us"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="ROBOTS" content="INDEX, NOFOLLOW"/>
+    <meta name="description" content="Project Euclid - mathematics and statistics online"/>
+    <meta name="author" content="Cornell University Library"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+    <link rel="stylesheet" href="/stylesheets/skeleton.css"/>
+    <link rel="stylesheet" href="/stylesheets/skeleton-wide.css"/>
+    <link rel="stylesheet" href="/stylesheets/style.css"/>
+    <link href="/stylesheets/ui.tabs.css" rel="stylesheet"/>
+    <script type="text/javascript" src="/js/main_javascript.js"> </script>
+    <script type="text/javascript" src="/js/jquery-1.7.2.min.js"> </script>
+    <script type="text/javascript" src="/js/jquery-ui-1.8.21.custom.min.js"> </script>
+    <script type="text/javascript" src="/js/jquery.scrollTo.js"> </script>
+    <script type="text/javascript" src="/js/jquery.localscroll.js"> </script>
+    <script type="text/javascript" src="/js/tabs.js"> </script>
+    <link rel="shortcut icon" href="/images/favicon.ico"/>
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png"/>
+    <link rel="apple-touch-icon" sizes="72x72" href="/images/apple-touch-icon-72x72.png"/>
+    <link rel="apple-touch-icon" sizes="114x114" href="/images/apple-touch-icon-114x114.png"/>
+    <title>Baum , Petrie , Soules , Weiss : A Maximization Technique Occurring in the Statistical Analysis of Probabilistic Functions of Markov Chains</title>
+    <meta name="citation_journal_title" content="The Annals of Mathematical Statistics"/>
+    <meta name="citation_publisher" content="Institute of Mathematical Statistics"/>
+    <meta name="citation_author" content="Leonard E. Baum"/>
+    <meta name="citation_author" content="Ted Petrie"/>
+    <meta name="citation_author" content="George Soules"/>
+    <meta name="citation_author" content="Norman Weiss"/>
+    <meta name="citation_title" content="A Maximization Technique Occurring in the Statistical Analysis of Probabilistic Functions of Markov Chains"/>
+    <meta name="citation_date" content="1970-02"/>
+    <meta name="citation_year" content="1970"/>
+    <meta name="citation_volume" content="41"/>
+    <meta name="citation_issue" content="1"/>
+    <meta name="citation_firstpage" content="164"/>
+    <meta name="citation_lastpage" content="171"/>
+    <meta name="citation_issn" content="0003-4851"/>
+    <meta name="citation_issn" content="2168-8990"/>
+    <meta name="citation_language" content="EN"/>
+    <meta name="citation_doi" content="10.1214/aoms/1177697196"/>
+    <meta name="citation_pdf_url" content="https://projecteuclid.org/download/pdf_1/euclid.aoms/1177697196"/>
+    <meta name="citation_abstract_html_url" content="https://projecteuclid.org/euclid.aoms/1177697196"/>
+    <meta name="citation_fulltext_world_readable" content=""/>
+  </head>
+  <script type="text/javascript" src="/js/jquery.cf.popover.js"> </script>
+  <script type="text/javascript" src="/js/author_popup.js"> </script>
+  <script type="text/javascript" src="/js/bootstrap-modal.js"> </script>
+  <script type="text/javascript" src="/js/bootstrap-alert.js"> </script>
+  <script type="text/javascript" src="/js/jquery.form.js"> </script>
+  <script type="text/javascript" src="/js/email_toc.js"> </script>
+  <link href="/stylesheets/dev.css" rel="stylesheet"/>
+  <script type="text/javascript" src="/js/search_header.js"> </script>
+  <body class="publication"><header><div class="container"><div class="sixteen columns"><div class="row"><div class="eight columns alpha"><div class="identity"><h1 class="title"><a href="/">Project Euclid</a></h1><h2 class="subtitle hide-mobile">mathematics and statistics online</h2></div></div><div class="eight columns omega"><div class="global-nav"><ul class="global-nav"><li><a href="/help">Help</a></li><li><a href="/about/contacts">Contact</a></li><li><a href="/feeds"><i class="icon-rss"> </i>RSS</a></li><li><a href="/login">Log in</a></li></ul></div></div></div><div class="nav"><div class="search"><form method="get" action="/search_result"><div class="search-wrapper clearfix"><input type="text" class="input-search" name="q.s" placeholder="Search"/><select><option value="q.s" selected="selected">All</option><option value="">-----</option><option value="q.a.title">Title</option><option value="q.a.author">Author(s)</option><option value="q.a.abstract">Abstract</option><option value="q.a.subject">Subject</option><option value="q.a.keyword">Keyword</option><option value="q.a.allfields">All Fields</option><option value="q.a.fulltext">Full Text</option><option value="">-----</option><option value="about">About</option></select></div><button type="submit" class="btn-search submit_search"> </button><input type="hidden" class="input-type" name="type" value="all"/></form></div><span class="separator">or</span><ul id="main-nav"><li><a href="/browse">Browse by <b class="caret"> </b></a><ul class="dropdown"><li><a href="/browse">Title</a></li><li><a href="/browse/publisher">Publisher</a></li><li><a href="/browse/discipline">Discipline</a></li></ul></li></ul></div><ul class="secondary"><li class="first"><a href="/about">About <b class="caret"> </b></a><ul class="dropdown"><li><a href="/about/news">News and events</a></li><li><a href="/about/governance">Governance</a></li><li><a href="/about/advisory_board">Advisory Board</a></li><li><a href="/about/euclid_publishers">Project Euclid publishers</a></li><li><a href="/about/policies">Policies</a></li><li><a href="/about/ways_to_support">Ways to support Project Euclid</a></li><li><a href="/about/contacts">Contact Project Euclid</a></li></ul></li><li><a href="/researchers">for Researchers <b class="caret"> </b></a><ul class="dropdown"><li><a href="/ManageAccount/MyEuclid">Manage my account</a></li><li><a href="/researchers/euclid_access">Accessing Project Euclid</a></li><li><a href="/researchers/access_levels">Access levels</a></li><li><a href="/researchers/ppv_pod">Pay-per-view and print-on-demand</a></li></ul></li><li><a href="/librarians">for Librarians <b class="caret"> </b></a><ul class="dropdown"><li><a href="/ManageAccount/Librarian">Manage my account</a></li><li><a href="/librarians/access_levels">Access levels</a></li><li><a href="/librarians/subscription_plans">Collections, titles, and ordering</a></li><li><a href="/librarians/tools">Librarian tools</a></li></ul></li><li class="last"><a href="/publishers">for Publishers <b class="caret"> </b></a><ul class="dropdown"><li><a href="/ManageAccount/MyEuclid">Manage my account</a></li><li><a href="/publishers/pub_partner">Why partner with Project Euclid?</a></li><li><a href="/publishers/pub_prime">Benefits of Euclid Prime</a></li><li><a href="/publishers/pub_features">Features of Project Euclid</a></li><li><a href="/publishers/pub_discovery">Discovery service partners</a></li><li><a href="/publishers/alloy">Alloy &#x2014; A Publishing Services Alliance</a></li><li><a href="/publishers/pub_tools">Publisher tools</a></li></ul></li></ul></div></div></header><script language="JavaScript"><!--
+
+        $(document).ready(function(){
+          
+          $('.toggle_all').click(function() {
+            // update both toggle all button to same state
+            $('.toggle_all').prop('checked', $(this).prop('checked'));
+            // toggle all item_toggle buttons
+            $('.item_toggle').prop('checked', $(this).prop('checked'));
+          });
+
+          function disableLink(e) {
+            // cancels the event
+            e.preventDefault();
+            return false;
+          }
+          
+          $('a.export-link').bind('click', disableLink).removeAttr('href');
+          
+          $('.item_toggle, .toggle_all').on('click', function() { 
+            var num_checked = $("input.item_toggle:checked").length;
+            if (num_checked != 0) {
+                $('a.export-link').unbind('click').attr('href', '#export');               
+                $('#myModalLabel').text("Export "+num_checked+" citation"+(num_checked == 1 ? "" : "s"));
+            }
+            else {
+                $('a.export-link').bind('click', disableLink).removeAttr('href');;
+            }
+          });
+          
+          $('input[name="modal-address"]').keypress(function(event) {
+              if (event.which == 13) {
+                  event.preventDefault();
+                  $('#export-button').click();
+              }           
+          });
+          
+          $('input[name="delivery"]').on('change', function() {
+            
+            $('#export-form').unbind('submit').find('input:submit,input:image,button:submit').unbind('click'); 
+            
+            if ( $(this).attr('value') == 'email' ) {
+                $('input[name="modal-address"]').removeAttr('disabled').focus();
+                $('form#export-form input#export-delivery').attr('value', 'email');
+                $('#export-form').ajaxForm(function() {
+                   $('.alert-success').removeClass('hidden');
+                   return true;
+                 });
+            }
+            
+            else {
+                $('input[name="modal-address"]').attr('disabled', true).val('');
+                $('form#export-form input#export-delivery').attr('value', 'browser');                
+                $('.alert').addClass('hidden');
+                 $('#export-form').submit(function() {
+                    return true;
+                });  
+            }
+          });
+             
+
+          $('#export-button').click(function(){
+
+            $(this).attr('disabled', 'disabled');
+
+            $('#export-format-select option:selected').each(function(){
+                 $('form#export-form input#export-format').attr("value", $(this).val());
+            });
+
+            if ( $('input[value="email"]:checked').length != 0) {              
+             
+                if ( ! $('input[name="modal-address"]').val().match(/^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/) ) {
+                    $('.alert-error').removeClass('hidden');
+                    $(this).removeAttr('disabled');                 
+                    return false;
+                }
+                else {
+                    $('.alert').addClass('hidden');
+                    $('form#export-form input#export-address').attr('value', $('input[name="modal-address"]').val());
+                    $('#export-form').submit();
+                }   
+            }
+            else {
+                if ( $('select option[value="ris"]').is(':selected') ){
+                    $('#export-form').removeAttr('target').submit()
+                }
+                else {
+                    $('#export-form').attr('target', '_blank').submit();
+                }
+            }
+            
+            $(this).removeAttr('disabled');
+          });                
+
+            if ( $('#dynamic_citation').length > 0 ) {
+                var handle = $("input[name='h']").attr('value');
+                $.ajax({
+                  url: "/DPubS/Repository/1.0/Disseminate?view=body&id=printer&handle="+handle,
+                  type: 'GET',
+                    cache: true,
+                    dataType: 'text',       
+                    error:function(xhr, status, errorThrown) { 
+            alert(errorThrown+'\n'+status+'\n'+xhr.statusText); 
+        }, 
+  
+                }).success(function( data ) {   
+                  $('#dynamic_citation').text(data);
+                  
+                });
+
+            }
+            else {
+                 $('#dynamic_citation').text("N/A");
+            }
+
+        });
+
+        
+            --></script>
+      <code xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:lookup="https://projecteuclid.org/mathjax_lookup">
+        <script type="text/x-mathjax-config">
+          MathJax.Hub.Config({
+            jax: ['input/TeX', 'output/HTML-CSS'],
+            tex2jax: {
+              inlineMath: [['$','$'],['\\(','\\)']],
+              ignoreClass: "tex2jax_ignore|sidebar",
+              processClass: "tex2jax_process",
+            },
+            TeX: {
+              extensions: ["noErrors.js", "noUndefined.js"],
+              noErrors: {
+                inlineDelimiters: [['$','$']],
+                multiLine: false,
+                style: {"font-size": "100%", "color": "black", "padding": "0px 0px", "border": ""},
+              },
+              noUndefined: {
+                attributes: {
+                  mathcolor: "black"
+                }
+              },
+              Macros: {
+                sp: "^",
+                sb: "_"
+              }
+            }
+          });
+        </script>
+        <script language="javascript" type="text/javascript">
+          var returnVal = getMathjaxCookie();
+
+          if (returnVal == "true" || returnVal != "false") {
+            var script = document.createElement("script");
+            script.setAttribute("type", "text/javascript");
+            script.setAttribute("src",
+              "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML");
+
+            var config = 'MathJax.Hub.Startup.onload();';
+            document.getElementsByTagName("head")[0].appendChild(script);
+          }
+        </script>
+
+      </code>
+    <div class="main-content"><div class="container"><div class="thirteen columns"><div class="gutter"><h2>The Annals of Mathematical Statistics</h2><ul class="nav-pills"><li><a href="/info/euclid.aoms">Info</a></li><li><a href="/all/euclid.aoms">All issues</a></li><li><a href="/search/euclid.aoms">Search</a></li></ul><section class="publication-content"><ul class="pager"><div><li><a href="/euclid.aoms/1177697195"> &#x2190; Previous article</a></li><li><a href="/euclid.aoms/1177697182#toc">TOC</a></li><li><a href="/euclid.aoms/1177697197">Next article &#x2192; </a></li></div> </ul><ul class="citation"><li><a href="/euclid.aoms">Ann. Math. Statist.</a></li><li> Volume 41, Number 1 (1970), 164-171.</li></ul><h3>A Maximization Technique Occurring in the Statistical Analysis of Probabilistic Functions of Markov Chains</h3><p class="small"><a class="trigger" href="#author-euclidaoms1177697196BaumLeonardE">Leonard E. Baum</a>, <a class="trigger" href="#author-euclidaoms1177697196PetrieTed">Ted Petrie</a>, <a class="trigger" href="#author-euclidaoms1177697196SoulesGeorge">George Soules</a>, and <a class="trigger" href="#author-euclidaoms1177697196WeissNorman">Norman Weiss</a><div class="popover popover-before-after-applied" style="display: none; " id="author-euclidaoms1177697196BaumLeonardE"><span role="presentation" class="before"> </span><h5>More by Leonard E. Baum</h5><p>Search this author in:</p><ul><li><a href="https://scholar.google.com/scholar?as_q=&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=Leonard E.+Baum&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;btnG=&amp;hl=en&amp;as_sdt=0%2C33#">Google Scholar</a></li><li><a href="/search_result?type=index&amp;q.a.author=Leonard E.%20Baum">Project Euclid</a></li></ul><span role="presentation" class="after"> </span></div><div class="popover popover-before-after-applied" style="display: none; " id="author-euclidaoms1177697196PetrieTed"><span role="presentation" class="before"> </span><h5>More by Ted Petrie</h5><p>Search this author in:</p><ul><li><a href="https://scholar.google.com/scholar?as_q=&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=Ted+Petrie&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;btnG=&amp;hl=en&amp;as_sdt=0%2C33#">Google Scholar</a></li><li><a href="/search_result?type=index&amp;q.a.author=Ted%20Petrie">Project Euclid</a></li></ul><span role="presentation" class="after"> </span></div><div class="popover popover-before-after-applied" style="display: none; " id="author-euclidaoms1177697196SoulesGeorge"><span role="presentation" class="before"> </span><h5>More by George Soules</h5><p>Search this author in:</p><ul><li><a href="https://scholar.google.com/scholar?as_q=&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=George+Soules&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;btnG=&amp;hl=en&amp;as_sdt=0%2C33#">Google Scholar</a></li><li><a href="/search_result?type=index&amp;q.a.author=George%20Soules">Project Euclid</a></li></ul><span role="presentation" class="after"> </span></div><div class="popover popover-before-after-applied" style="display: none; " id="author-euclidaoms1177697196WeissNorman"><span role="presentation" class="before"> </span><h5>More by Norman Weiss</h5><p>Search this author in:</p><ul><li><a href="https://scholar.google.com/scholar?as_q=&amp;as_epq=&amp;as_oq=&amp;as_eq=&amp;as_occt=any&amp;as_sauthors=Norman+Weiss&amp;as_publication=&amp;as_ylo=&amp;as_yhi=&amp;btnG=&amp;hl=en&amp;as_sdt=0%2C33#">Google Scholar</a></li><li><a href="/search_result?type=index&amp;q.a.author=Norman%20Weiss">Project Euclid</a></li></ul><span role="presentation" class="after"> </span></div></p><div class="download-buttons box"><p><strong>Full-text: Open access</strong><div class="download-buttons"> <a class="btn btn-primary" href="/download/pdf_1/euclid.aoms/1177697196"><i class="icon-pdf"> </i>PDF File (705 KB)</a>       </div></p></div><div class="tab-set"><ul class="nav-tabs"><li><a href="#info">Article info and citation</a></li><li><a href="/first_page/euclid.aoms/1177697196">First page</a></li></ul><div id="info"><h4>Article information</h4><p><strong>Source</strong><br/><a href="/euclid.aoms">Ann. Math. Statist.</a>,  Volume 41, Number 1 (1970), 164-171.</p><p><strong>Dates</strong><br/>First available in Project Euclid:  27 April 2007<br/></p><p><strong>Permanent link to this document</strong><br/>https://projecteuclid.org/euclid.aoms/1177697196</p><p><strong>Digital Object Identifier</strong><br/>doi:10.1214/aoms/1177697196</p><p><strong>Mathematical Reviews number (MathSciNet)</strong><br/><a href="https://mathscinet.ams.org/mathscinet-getitem?mr=287613"> MR287613</a><br/></p><p><strong>Zentralblatt MATH identifier</strong><br/><a href="https://zbmath.org/?q=an:0188.49603">0188.49603</a></p><p><strong>JSTOR</strong><br/><a href="http://links.jstor.org/sici?sici=0003-4851%28197002%2941%3A1%3C164%3AAMTOIT%3E2%2E0%2ECO%3B2-V&amp;origin=euclid"> links.jstor.org </a></p><h4>Citation</h4><div id="printer-citation"><p><span id="dynamic_citation">Baum, Leonard E.; Petrie, Ted; Soules, George; Weiss, Norman. A Maximization Technique Occurring in the Statistical Analysis of Probabilistic Functions of Markov Chains. 
+ Ann. Math. Statist. 41 (1970), no. 1, 164--171. doi:10.1214/aoms/1177697196. https://projecteuclid.org/euclid.aoms/1177697196</span></p></div><br/><div id="export" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="moreFacets" aria-hidden="true"><div class="modal-header"><a data-dismiss="modal" aria-hidden="true"><i class="icon-remove"> </i></a><h3 id="myModalLabel">Export citation</h3></div><div class="modal-body"><h4>Format:</h4><select id="export-format-select"><option value="bibtex">Text (BibTeX)</option><option value="printer">Text (printer-friendly)</option><option value="ris">RIS (EndNote, ProCite, Reference Manager)</option></select><h4>Delivery Method:</h4><input type="radio" name="delivery" value="browser" checked="true">Download</input>  <input type="radio" name="delivery" value="email">Email</input>  <input type="text" name="modal-address" disabled="true"/><br/><br/><div class="alert alert-error hidden">Please enter a valid email address.</div><div class="alert alert-success hidden">Email sent.</div></div><div class="modal-footer"><button id="export-button" class="btn btn-primary"><i class="icon-share"> </i> Export</button><button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button></div></div><form id="export-form" method="post" action="/export_citations" enctype="application/x-www-form-urlencoded"><input id="export-format" name="format" value="bibtex" type="hidden"/><input id="export-delivery" name="delivery" value="browser" type="hidden"/><input id="export-address" name="address" type="hidden"/><input name="h" class="item_toggle" type="hidden" checked="checked" id="euclid.aoms/1177697196" value="euclid.aoms/1177697196"/><a class="btn export-link-special" href="#export" data-toggle="modal"><i class="icon-share"> </i> Export citation</a></form></div></div></section></div></div><div class="three columns sidebar"><div class="gutter"><div class="publisher-logo"><a href="/publisher/euclid.publisher.ims"><img src="/publisher/images/publisher_ims.png"/></a></div><div class="sidebar-box publisher-nav"><h4><a href="/publisher/euclid.publisher.ims">The Institute of Mathematical Statistics</a></h4></div><div class="sidebar-box sidebar-cover"><img class="border-gray" src="/publication/euclid.aoms/images/cover_aoms_111.gif" alt="The Annals of Mathematical Statistics"/></div><div class="sidebar-box"><div class="share-icons"><a onclick="javascript:window.open(this.href,           '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;" href="https://plus.google.com/share?url=https://projecteuclid.org/euclid.aoms/1177697196"><i class="icon-google-plus-sign"> </i></a><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://projecteuclid.org/euclid.aoms/1177697196"><i class="icon-facebook-sign"> </i></a><a href="https://twitter.com/share"><i class="icon-twitter-sign"> </i></a></div></div><div class="sidebar-box"><ul class="access"><li><i class="icon-access-open"> </i><span>You have access to this content.</span></li><li><i class="icon-access-partial"> </i><span>You have partial access to this content.</span></li><li><i class="icon-access-closed"> </i><span>You do not have access to this content.</span></li></ul></div><script language="JavaScript">
+        function checkButton() {
+        var returnVal;
+        returnVal = getMathjaxCookie();
+        mjLink = document.getElementById("mathjaxbutton");
+        if (mjLink != "") {
+        if (returnVal == "false") {
+        mjLink.innerHTML = "Turn On MathJax";
+
+        }
+        else if (returnVal == "true"){
+        mjLink.innerHTML = "Turn Off MathJax";
+        }
+        }
+        }
+      </script><div class="sidebar-box mathjax tex2jax_ignore"><a id="mathjaxbutton" class="btn" href="javascript:setMathjaxCookie(30);">Turn Off
+          MathJax</a><script language="JavaScript">checkButton();</script><p class="small"><a href="/help#mathjax">What is MathJax?</a></p></div><div id="email_toc_modal_container" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="emailTOC" aria-hidden="true"> </div><div class="sidebar-box see-also"><h3>More like this</h3><ul><li><a class="title" href="/euclid.twjm/1500406976">AN APPROACH TO CONSTRUCT THE SINGULAR MONOTONE FUNCTIONS BY USING MARKOV CHAINS</a><br/>Wen, Liu, Taiwanese Journal of Mathematics, 1998</li><li><a class="title" href="/euclid.aoap/1019487508">Analysis of a nonreversible Markov chain sampler</a><br/>Diaconis, Persi, Holmes, Susan, and Neal, Radford M., The Annals of Applied Probability, 2000</li><li><a class="title" href="/euclid.aoms/1177698146">Admissibility and Distribution of Some Probabilistic Functions of Discrete Finite State Markov Chains</a><br/>Tsao, Chia Kuei, The Annals of Mathematical Statistics, 1968</li></ul><p><strong><a href="#more-like-this" data-toggle="modal">+ See more</a></strong></p></div><div id="more-like-this" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="moreLikeThis" aria-hidden="true"><div class="modal-header"><a data-dismiss="modal" aria-hidden="true"><i class="icon-remove"> </i></a><h3 id="myModalLabel">More like this</h3></div><div class="modal-body"><ul><li><a class="title" href="/euclid.twjm/1500406976">AN APPROACH TO CONSTRUCT THE SINGULAR MONOTONE FUNCTIONS BY USING MARKOV CHAINS</a><br/>Wen, Liu, Taiwanese Journal of Mathematics, 1998</li><li><a class="title" href="/euclid.aoap/1019487508">Analysis of a nonreversible Markov chain sampler</a><br/>Diaconis, Persi, Holmes, Susan, and Neal, Radford M., The Annals of Applied Probability, 2000</li><li><a class="title" href="/euclid.aoms/1177698146">Admissibility and Distribution of Some Probabilistic Functions of Discrete Finite State Markov Chains</a><br/>Tsao, Chia Kuei, The Annals of Mathematical Statistics, 1968</li><li><a class="title" href="/euclid.ejp/1465065729">A sequential empirical CLT for multiple mixing processes with application to $\mathcal{B}$-geometrically ergodic Markov chains</a><br/>Dehling, Herold, Durieu, Olivier, and Tusche, Marco, Electronic Journal of Probability, 2014</li><li><a class="title" href="/euclid.aoap/1171377182">Singularly perturbed Markov chains: Limit results and applications</a><br/>Yin, George and Zhang, Hanqin, The Annals of Applied Probability, 2007</li><li><a class="title" href="/euclid.aos/1558425647">Convergence complexity analysis of Albert and Chib&#x2019;s algorithm for Bayesian probit regression</a><br/>Qin, Qian and Hobert, James P., The Annals of Statistics, 2019</li><li><a class="title" href="/euclid.jap/1417528486">Quasistochastic matrices and Markov renewal theory</a><br/>Alsmeyer, Gerold, Journal of Applied Probability, 2014</li><li><a class="title" href="/euclid.aoas/1380804818">A decision-theoretic approach for segmental classification</a><br/>Yau, Christopher and Holmes, Christopher C., The Annals of Applied Statistics, 2013</li><li><a class="title" href="/euclid.aop/1176993292">Probabilistic Solution of the Dirichlet Problem for Biharmonic Functions in Discrete Space</a><br/>Vanderbei, R. J., The Annals of Probability, 1984</li><li><a class="title" href="/euclid.ss/1089808282">Computational Discovery of Gene Regulatory Binding Motifs: A Bayesian Perspective</a><br/>Jensen, Shane T., Liu, X. Shirley, Zhou, Qing, and Liu, Jun S., Statistical Science, 2004</li></ul></div></div></div></div></div></div><div id="handle" class="hidden">euclid.aoms/1177697196</div><footer><div class="container"><div class="eight columns"><ul><li class="browse-links"><a href="/browse">Browse</a></li><li class="browse-links"><a href="/search_result?q.s=&amp;type=all">Search</a></li><li><a href="/about">About</a></li><li><a href="/researchers">Researchers</a></li><li><a href="/librarians">Librarians</a></li><li><a href="/publishers">Publishers</a></li></ul><ul><li><a href="/about/policies#Accessibility">Accessibility</a></li><li><a href="/about/privacy">Privacy</a></li><li><a href="/help">Help</a></li><li><a href="/about/contacts">Contact</a></li><li><a href="/feeds">RSS</a></li><li><a href="/login">Log in</a></li></ul><p>
+            
+            &#xA9;
+            2019
+            Project Euclid
+          </p></div><div xmlns:g="http://base.google.com/ns/1.0" class="eight columns gplus"><a href="https://twitter.com/projecteuclid" rel="publisher" style="text-decoration:none;"><img src="/images/twitter-logo.png" alt="Twitter" style="border:0;width:32px;height:32px;"/></a>&#x200A;
+        </div></div></footer></body>
+</html>
